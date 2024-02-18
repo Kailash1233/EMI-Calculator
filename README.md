@@ -1,4 +1,13 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## EMI CALCULATOR
+
+<h3 align="center">I am attempting to replicate a design that I created using Figma. I will do my best to recreate it as accurately as possible, with a focus on the functionality of the web application. While I may not get the colors exactly right, I am confident that I can deliver on the functionality.</h3>
+
+<p align="center">
+  <img src="/public/emi.PNG" width="500" alt="Figma File">
+</p>
+
+This web application, which is developed with Next.js, allows you to enter your loan amount, interest rate, and loan tenure to find out how much interest you will pay and how much your monthly installments will be. This is displayed for all personal, home, and auto loans.
+
 
 ## Getting Started
 
